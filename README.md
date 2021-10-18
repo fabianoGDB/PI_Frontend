@@ -1,5 +1,7 @@
-#DAYCLASS!
-
+<h1>
+DAYCLASS!
+</h1>
+  
 <h2>
 Caderneta online desenvolvido no Projeto Integrador 1, tem como intuito facilitar a administração de aulas e alunos pelos docentes.
 </h2>
